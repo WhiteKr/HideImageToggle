@@ -5,7 +5,7 @@ jQuery를 이용한 간단한 이미지 숨김 토클링 프로젝트입니다.
 노란 버튼을 클릭하여 이미지를 숨기거나 다시 보이도록 할 수 있습니다.
 
 ## Git Pages
-이 프로젝트는 [Git Pages](https://WhiteKr.github.io/HideImageToggle)에서 확인 밑 테스트가 가능합니다.
+이 프로젝트는 [Git Pages](https://WhiteKr.github.io/HideImageToggle)에서 확인 및 테스트가 가능합니다.
 
 ## Updates
 
